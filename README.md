@@ -9,6 +9,7 @@ It runs in a DOS environment and demonstrates low-level programming concepts suc
 * Interrupt handling
 * Basic game loop and animation
 * Keyboard input handling
+* multitasking used to play music in background
 
 ---
 
